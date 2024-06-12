@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Whole-Grain Banana Bread",
+    "description": "This one-bowl banana bread is incredibly moist and flavorful.",
+    "prepTime": "10 mins",
+    "bakeTime": "1 hr to 1 hr 15 mins",
+    "totalTime": "1 hr 10 mins",
+    "yield": "1 loaf, 12 generous servings",
+    "image": "/assets/images/recipe/recipe1.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Chocolate Chip Cookies",
+    "description": "Crispy on the outside, chewy on the inside.",
+    "prepTime": "15 mins",
+    "bakeTime": "10-12 mins",
+    "totalTime": "30 mins",
+    "yield": "24 cookies",
+    "image": "/assets/images/recipe/recipe2.webp"
+  }
+]
